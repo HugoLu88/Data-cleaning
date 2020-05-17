@@ -2,7 +2,7 @@
 
 Template code for data cleaning and creating indicators that can be used in statistical analysis.
 
-~############# Notebook summaries ##############~
+*############# Notebook summaries ##############*
 
 create_and_clean_covariance_matrix
 
